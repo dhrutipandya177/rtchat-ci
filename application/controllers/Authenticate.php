@@ -95,4 +95,7 @@ class Authenticate extends CI_Controller{
 	}
 }
 
+
+echo "Hello";
+
 ?>
