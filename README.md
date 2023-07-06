@@ -1,1 +1,1 @@
-# rtchat-ci
+# Live Chat Application in Codeignitor
